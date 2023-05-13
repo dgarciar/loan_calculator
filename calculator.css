@@ -2,6 +2,7 @@ body {
     margin: 14%;
     margin-top: 40px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: darkolivegreen;
   }
   
   @media screen and (max-width: 900px) {
